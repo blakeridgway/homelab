@@ -15,3 +15,11 @@
 This repository includes all of the configuration, documentation, and diagrams for my homelab infrastructure.
 
 My homelab currently consists of one Dell PowerEdge R720 and one Dell PowerEdge R520 running [Proxmox](https://www.proxmox.com/en/proxmox-virtual-environment/overview).
+
+<h1 align="center">
+	Services
+</h1>
+
+<b>
+	Dell PowerEdge R720
+</b>
